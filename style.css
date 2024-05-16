@@ -1,0 +1,32 @@
+
+#number{
+    background-color: rgb(66, 66, 130);
+    color: black;
+    margin: 50px;
+    text-align: center;
+}
+.selected{
+    color: brown;
+}
+h2{
+    display: inline-block;
+    margin: 20px;
+    border: 2px;
+    border: solid;
+    padding: 10px;
+    border-color: black;
+}
+h1{
+    text-align: center;
+    border: 2px;
+    border: solid;
+    border-color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: blanchedalmond;
+}
+button{
+    font-size: large;
+    background-color: rgb(163, 170, 77);
+    margin-left: 45%;
+}
